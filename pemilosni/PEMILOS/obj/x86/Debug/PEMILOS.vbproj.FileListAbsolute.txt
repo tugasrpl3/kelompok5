@@ -1,0 +1,98 @@
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\arraysendi\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.guru.resources
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\arraysendi\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.Menu.resources
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\arraysendi\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.Resources.resources
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\arraysendi\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.siswa.resources
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\arraysendi\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.user.resources
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\arraysendi\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.vbproj.GenerateResource.Cache
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\arraysendi\PEMILOS\PEMILOS\bin\Debug\PEMILOS.exe
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\arraysendi\PEMILOS\PEMILOS\bin\Debug\PEMILOS.pdb
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\arraysendi\PEMILOS\PEMILOS\bin\Debug\PEMILOS.xml
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\arraysendi\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.exe
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\arraysendi\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.xml
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\arraysendi\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.pdb
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\arraysendi\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.CalonKetuaOsis.resources
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\arraysendi\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.FrmPemilihan.resources
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\arraysendi\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.TPS.resources
+C:\Users\client\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.exe
+C:\Users\client\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.xml
+C:\Users\client\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.pdb
+C:\Users\client\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\client\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.CalonKetuaOsis.resources
+C:\Users\client\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.guru.resources
+C:\Users\client\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.Menu.resources
+C:\Users\client\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.Resources.resources
+C:\Users\client\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.siswa.resources
+C:\Users\client\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.FrmPemilihan.resources
+C:\Users\client\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.TPS.resources
+C:\Users\client\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.user.resources
+C:\Users\client\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\client\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\client\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\bin\Debug\PEMILOS.exe
+C:\Users\client\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\bin\Debug\PEMILOS.pdb
+C:\Users\client\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\bin\Debug\PEMILOS.xml
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.exe
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.xml
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.pdb
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\bin\Debug\PEMILOS.exe
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\bin\Debug\PEMILOS.pdb
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\bin\Debug\PEMILOS.xml
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.CalonKetuaOsis.resources
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.guru.resources
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.Menu.resources
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.Resources.resources
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.siswa.resources
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.FrmPemilihan.resources
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.TPS.resources
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.user.resources
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.vbproj.GenerateResource.Cache
+C:\Users\PC-CLIENT\Documents\Visual Studio 2010\Projects\PEMILOS\PEMILOS\obj\x86\Debug\PEMILOS.Pengguna.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilos\PEMILOS\obj\x86\Debug\PEMILOS.exe
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilos\PEMILOS\obj\x86\Debug\PEMILOS.xml
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilos\PEMILOS\obj\x86\Debug\PEMILOS.pdb
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilos\PEMILOS\bin\Debug\PEMILOS.exe
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilos\PEMILOS\bin\Debug\PEMILOS.pdb
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilos\PEMILOS\bin\Debug\PEMILOS.xml
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilos\PEMILOS\obj\x86\Debug\PEMILOS.CalonKetuaOsis.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilos\PEMILOS\obj\x86\Debug\PEMILOS.guru.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilos\PEMILOS\obj\x86\Debug\PEMILOS.Menu.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilos\PEMILOS\obj\x86\Debug\PEMILOS.Resources.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilos\PEMILOS\obj\x86\Debug\PEMILOS.Pengguna.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilos\PEMILOS\obj\x86\Debug\PEMILOS.siswa.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilos\PEMILOS\obj\x86\Debug\PEMILOS.FrmPemilihan.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilos\PEMILOS\obj\x86\Debug\PEMILOS.TPS.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilos\PEMILOS\obj\x86\Debug\PEMILOS.user.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilos\PEMILOS\obj\x86\Debug\PEMILOS.vbproj.GenerateResource.Cache
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.exe
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.xml
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.pdb
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\bin\Debug\PEMILOS.exe
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\bin\Debug\PEMILOS.pdb
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\bin\Debug\PEMILOS.xml
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.CalonKetuaOsis.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.guru.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.LoginForm1.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.Resources.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.Pengguna.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.siswa.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.FrmPemilihan.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.TPS.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.user.resources
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.vbproj.GenerateResource.Cache
+C:\Users\PC-UP\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.fromMenu.resources
+C:\Users\LAB-1 RPL\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.exe
+C:\Users\LAB-1 RPL\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.xml
+C:\Users\LAB-1 RPL\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.pdb
+C:\Users\LAB-1 RPL\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\bin\Debug\PEMILOS.exe
+C:\Users\LAB-1 RPL\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\bin\Debug\PEMILOS.pdb
+C:\Users\LAB-1 RPL\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\bin\Debug\PEMILOS.xml
+C:\Users\LAB-1 RPL\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.CalonKetuaOsis.resources
+C:\Users\LAB-1 RPL\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.guru.resources
+C:\Users\LAB-1 RPL\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.LoginForm1.resources
+C:\Users\LAB-1 RPL\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.fromMenu.resources
+C:\Users\LAB-1 RPL\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.Resources.resources
+C:\Users\LAB-1 RPL\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.Pengguna.resources
+C:\Users\LAB-1 RPL\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.siswa.resources
+C:\Users\LAB-1 RPL\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.FrmPemilihan.resources
+C:\Users\LAB-1 RPL\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.TPS.resources
+C:\Users\LAB-1 RPL\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.user.resources
+C:\Users\LAB-1 RPL\Documents\Visual Studio 2010\Projects\pemilosni\PEMILOS\obj\x86\Debug\PEMILOS.vbproj.GenerateResource.Cache
